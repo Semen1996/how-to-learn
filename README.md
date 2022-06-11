@@ -1,4 +1,4 @@
-# How to learn
+# How to learn (https://semen1996.github.io/how-to-learn/)
 Проектная работа посвящена созданию [лендинга](https://habr.com/ru/company/trinion/blog/273917/ "Одностраничный сайт") о методах и проблемах эффективного обучения.  
 В работе используются следующие технологии:  
 * [Флексбокс вёрстка](https://habr.com/ru/post/467049/);
