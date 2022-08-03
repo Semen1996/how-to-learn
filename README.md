@@ -1,4 +1,5 @@
-# Проект: How to learn (https://semen1996.github.io/how-to-learn/)
+# Проект: How to learn 
+https://semen1996.github.io/how-to-learn/
 
 ## Описание: 
 
