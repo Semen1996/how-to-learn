@@ -1,5 +1,5 @@
 # Проект: How to learn 
-https://semen1996.github.io/how-to-learn/ 
+Сайт на GitHub Pages: https://semen1996.github.io/how-to-learn/ 
 
 Проектная работа посвящена созданию [лендинга](https://habr.com/ru/company/trinion/blog/273917/ "Одностраничный сайт") о методах и проблемах эффективного обучения.
 
