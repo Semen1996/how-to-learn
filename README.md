@@ -1,7 +1,5 @@
 # Проект: How to learn 
-https://semen1996.github.io/how-to-learn/ #
-
-## Описание: 
+https://semen1996.github.io/how-to-learn/ 
 
 Проектная работа посвящена созданию [лендинга](https://habr.com/ru/company/trinion/blog/273917/ "Одностраничный сайт") о методах и проблемах эффективного обучения.
 
@@ -29,4 +27,4 @@ https://semen1996.github.io/how-to-learn/ #
 git clone git@github.com:Semen1996/how-to-learn.git
 ```
 
-Затем запустите index.html
+Затем запустите файл ***index.html***
