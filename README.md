@@ -1,5 +1,5 @@
 # Проект: How to learn 
-https://semen1996.github.io/how-to-learn/
+https://semen1996.github.io/how-to-learn/ #
 
 ## Описание: 
 
@@ -25,6 +25,8 @@ https://semen1996.github.io/how-to-learn/
 
 Скопируйте проект к себе с помощью команды
 
-git clone https://github.com/MelnikovAleksei/how-to-learn.git
+```
+git clone git@github.com:Semen1996/how-to-learn.git
+```
 
 Затем запустите index.html
